@@ -1,4 +1,4 @@
-tox==3.23.0
+tox==3.23.1
 coverage-badge==1.0.1
 scapy==2.4.5
 manuf==1.1.1

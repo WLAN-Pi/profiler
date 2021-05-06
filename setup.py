@@ -20,7 +20,7 @@ except FileNotFoundError:
 
 packages = ["profiler"]
 
-requires = ["tox==3.23.0", "coverage-badge==1.0.1", "scapy==2.4.5", "manuf==1.1.1"]
+requires = ["tox==3.23.1", "coverage-badge==1.0.1", "scapy==2.4.5", "manuf==1.1.1"]
 
 setup(
     name=about["__title__"],
