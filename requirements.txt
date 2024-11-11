@@ -16,7 +16,7 @@ manuf2==2.0.1
     # via -r requirements.in
 requests==2.32.3
     # via manuf2
-scapy==2.5.0
+scapy==2.6.1
     # via -r requirements.in
 urllib3==2.2.2
     # via requests
